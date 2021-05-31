@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "auth-ngrx-firebase": {
+      "hosting": {
+        "auth-ngrx-firebase": [
+          "auth-ngrx-firebase"
+        ]
+      }
+    }
+  }
+}
